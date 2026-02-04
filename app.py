@@ -132,11 +132,11 @@ if st.button("💳 Check Loan Status"):
 # Footer
 st.markdown("""
 <div class="footer">
-    Developed by <b>Rakshith</b>
-    <a href="mailto:rakshithgowdaka09@gmail.com">
+    Developed by <b>Mukesh</b>
+    <a href="mailto:mukeshkumar.tm17@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
     </a>
-    <a href="https://www.linkedin.com/in/rakshithgowdahj/" target="_blank">
+    <a href="https://www.linkedin.com/in/mukesh-kumar-tm/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
